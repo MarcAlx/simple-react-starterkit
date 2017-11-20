@@ -1,5 +1,5 @@
 # simple-react-starterkit
-A simple react starter kit that bundles some great tools to get started.
+A simple react starter-kit that bundles some great tools to get started.
 
 - (obviously) React
 - webpack : to build your app
@@ -11,7 +11,7 @@ A simple react starter kit that bundles some great tools to get started.
 
 First of all you need `Node.js` and optionnaly `yarn`. 
 
-*NB if you don't get `yarn` replace all following `yarn` occurences by `npm`*
+*NB if you didn't get `yarn` replace all following `yarn` occurences by `npm`*
 
 To setup the project (retrieve dependencies) run `yarn install` (or `npm install`)
 
