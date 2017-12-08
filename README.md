@@ -37,7 +37,7 @@ To run your code locally with uncompressed sources (on port 3000) :
 
 To run your code locally like in relase with minified and compressed sources (on port 3001) :
 
-    yarn run-dev
+    yarn run-prod
 
 ## Info
 
