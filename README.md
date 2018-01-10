@@ -7,6 +7,8 @@ A simple react starter-kit that bundles some great tools to get started.
 - less : to extends css capabilities
 - babel : to use some of the latest js features
 - react-i18next : for internationalization
+- redux  : to improve app state management
+- redux-thunk : to allow asynchronous reducers
 
 ## Get started
 
