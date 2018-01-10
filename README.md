@@ -6,6 +6,7 @@ A simple react starter-kit that bundles some great tools to get started.
 - eslint : to lint your code
 - less : to extends css capabilities
 - babel : to use some of the latest js features
+- react-i18next : for internationalization
 
 ## Get started
 

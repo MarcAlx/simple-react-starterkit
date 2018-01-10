@@ -2,19 +2,26 @@
   "name": "sample",
   "version": "1.0.0",
   "description": "A simple react project",
-  "keywords":["react","starter-kit","less","babel","lint","yarn"],
+  "keywords": [
+    "react",
+    "starter-kit",
+    "less",
+    "babel",
+    "lint",
+    "yarn"
+  ],
   "bugs": {
-    "url": "https://github.com/MarcAlx/simple-react-starterkit/issues"    
+    "url": "https://github.com/MarcAlx/simple-react-starterkit/issues"
   },
-  "author":{
+  "author": {
     "name": "Marc_Alx"
   },
-  "repository" :{ 
-    "type" : "git", 
-    "url" : "https://github.com/MarcAlx/simple-react-starterkit"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarcAlx/simple-react-starterkit"
   },
   "engines": {
-    "node":"*"
+    "node": "*"
   },
   "license": "MIT",
   "private": true,
@@ -30,8 +37,11 @@
   ],
   "dependencies": {
     "eslint-plugin-react": "^7.5.1",
+    "i18next": "^10.2.2",
+    "i18next-browser-languagedetector": "^2.1.0",
     "react": "^16.1.1",
-    "react-dom": "^16.1.1"
+    "react-dom": "^16.1.1",
+    "react-i18next": "^7.3.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
